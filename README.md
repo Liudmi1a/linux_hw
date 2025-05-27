@@ -1,8 +1,6 @@
 # linux_hw
 Отчет по практической работе с виртуальными машинами на ОС Linux Ubuntu 24.04.2
 
-![photo_2025-05-27_01-52-37](https://github.com/user-attachments/assets/d80639dc-fef0-4aee-bfe7-9a243f39f061)
-
 
 Работа начинается с создания и настройки виртуальных машин А, Б и С - сервера, шлюза и клиента.
 Ниже предствлены скрины настройки виртуальных машин и их состояние:
@@ -71,13 +69,14 @@
 Так же с помощью команды 'tcpdump' были получены логи передачи пакетов с ВМ С на ВМ А. Ниже представлены скрины.
 
 Мониторинг запросов GET с ВМ С на ВМ А:
-![2 tcpdump GET]
+![photo_2025-05-27_01-52-37](https://github.com/user-attachments/assets/d80639dc-fef0-4aee-bfe7-9a243f39f061)
 
 Мониторинг запросов POST с ВМ С на ВМ А:
-![2 tcpdump POST]
+
+![photo_2025-05-27_01-53-42](https://github.com/user-attachments/assets/83301c27-c773-4ea9-9a33-5a5dcd082bf9)
 
 Мониторинг запросов PUT с ВМ С на ВМ А:
-![2 tcpdump PUT]
+![put](https://github.com/user-attachments/assets/75529728-bee5-4b6e-82f7-218184aa69c2)
 
 ---
 
