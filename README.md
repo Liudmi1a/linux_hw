@@ -17,11 +17,11 @@
 
 После презагрузки машинам были присвоены новые 'hostname': <br>
 ВМ А - shcerbakovaserver <br> ВМ Б - shcerbakovagateway <br> ВМ С - shcerbakovaclient
+
 ![hostnameA](https://github.com/user-attachments/assets/98458eb8-6b85-488d-b471-c26618bdafc6)
 ![hostnameC](https://github.com/user-attachments/assets/0885b811-0621-45bf-97ed-7c28fbca0cac)
 ![hostnameB](https://github.com/user-attachments/assets/c50691a5-7f0b-4536-9761-8c06824659c0)
 
-А так же на всех трех виртуальных машинах успешно были добавлены новые пользователи 'not_asowsla' и присвоены пароли для авторизации
 
 ---
 
