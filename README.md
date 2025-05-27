@@ -4,16 +4,22 @@
 
 Работа начинается с создания и настройки виртуальных машин А, Б и С - сервера, шлюза и клиента.
 Ниже предствлены скрины настройки виртуальных машин и их состояние:
+![lA](https://github.com/user-attachments/assets/f56d747e-8ed7-478a-8a48-09658b5529b7)
+![lB](https://github.com/user-attachments/assets/3ca036d4-ab4f-49e7-8d5f-5e6af0e795ca)
+![lC](https://github.com/user-attachments/assets/433c7a9b-32d3-4033-a36c-b89570f33eab)
 
 ---
 
-На всех трех виртуальных машинах был изменён 'hostname' в соответствии с заданием:
-![1 hostname and add user]
-![2 hostname and add user]
-![3 hostname and add user]
+На всех трех виртуальных машинах был изменён 'hostname' в соответствии с заданием в файле etc/hostname :
+![etc_hostnameA (1)](https://github.com/user-attachments/assets/8baf5b48-20e2-43bb-bc03-26076d1739df)
+![etc_hostnameB](https://github.com/user-attachments/assets/f145e03c-e9b9-4a26-a04b-46d7b1765f26)
+![etc_hostnameC](https://github.com/user-attachments/assets/3b8d81fe-23e8-4f84-8ae9-372055d5f3d0)
 
-В итоге получилось присвоить виртуальным машинам новые 'hostname': <br>
-ВМ А - asowslaserver <br> ВМ Б - asowslagateway <br> ВМ С - asowslaclient
+После презагрузки машинам были присвоены новые 'hostname': <br>
+ВМ А - shcerbakovaserver <br> ВМ Б - shcerbakovagateway <br> ВМ С - shcerbakovaclient
+![hostnameA](https://github.com/user-attachments/assets/98458eb8-6b85-488d-b471-c26618bdafc6)
+![hostnameC](https://github.com/user-attachments/assets/0885b811-0621-45bf-97ed-7c28fbca0cac)
+![hostnameB](https://github.com/user-attachments/assets/c50691a5-7f0b-4536-9761-8c06824659c0)
 
 А так же на всех трех виртуальных машинах успешно были добавлены новые пользователи 'not_asowsla' и присвоены пароли для авторизации
 
